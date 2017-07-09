@@ -1,0 +1,13 @@
+{
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,7 @@
+{
+    "phpcs_php_path": "C:\\php\\php.exe",
+    "phpcs_executable_path": "C:\\php\\pear\\phpcs.bat",
+    "phpmd_executable_path": "",
+    "php_cs_fixer_executable_path": "",
+    "phpcbf_executable_path": "C:\\php\\pear\\phpcbf.bat"
+}
