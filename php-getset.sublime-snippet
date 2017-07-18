@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @return ${3:dataType}
+ */
+public function get${1:functionName}()
+{
+    return \$this->${2:property};
+}
+
+/**
+ * @param ${3:dataType} \$${2:property}
+ */
+public function set${1:functionName}(\$${2:property})
+{
+    \$this->${2:property} = \$${2:property};
+}]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>getset</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
