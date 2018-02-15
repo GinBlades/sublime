@@ -2,13 +2,13 @@
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
-	[],
+	[
+	],
 	"save_on_focus_lost": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_ctrl_keys": true,
-	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": true
 }
