@@ -1,12 +1,12 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"index_files": true,
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 	],
+	"index_files": true,
 	"save_on_focus_lost": true,
 	"show_encoding": true,
 	"show_line_endings": true,

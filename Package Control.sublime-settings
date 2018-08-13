@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AlignTab",
 		"All Autocomplete",
 		"Babel",
 		"DocBlockr",

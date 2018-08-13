@@ -1,0 +1,5 @@
+{
+    "named_patterns": {
+        "props": "(?<=:) /l1l1f"
+    }
+}
